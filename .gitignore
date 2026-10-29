@@ -1,0 +1,20 @@
+## Visual Studio / .NET ignore rules
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+
+# Local cache / test
+*.suo
+*.userprefs
